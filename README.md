@@ -1,2 +1,2 @@
 # dmu2026h1
-class lecture
+동양미래대학교 화이팅!!!
